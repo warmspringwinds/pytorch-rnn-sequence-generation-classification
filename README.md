@@ -5,7 +5,8 @@ Implementation of generative character-level and multi-pitch-level rnn models de
 
 The original jupyter notebook source of the blog can be found [here](blog_post.ipynb).
 
-Models can be downloaded via the following [link](https://www.dropbox.com/s/23d9n091jje8sct/music_lyrics_blogpost_models.zip?dl=0).
+Trained models can be downloaded via the following [link](https://www.dropbox.com/s/23d9n091jje8sct/music_lyrics_blogpost_models.zip?dl=0). You can skip training and
+sample using provided models (follow jupyter notebooks below). Som examples of the piano song samples [are available on youtube](https://www.youtube.com/watch?v=EOQQOQYvGnw&list=PLJkMX36nfYD000TG-T59hmEgJ3ojkOlBp), and examples of lyris samples can be found in the [original blog post](http://warmspringwinds.github.io/pytorch/rnns/2018/01/27/learning-to-generate-lyrics-and-music-with-recurrent-neural-networks/).
 
 ## Lyrics Generation
 
